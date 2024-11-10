@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 import Navbar from './Navbar';
 
 const Hero = () => {
@@ -13,7 +13,7 @@ const Hero = () => {
         <div className='hidden lg:block'></div>
              <div className='text-[60px] sm:text-[100px] font-bold leading-tight flex justify-center items-center text-black'>           
                 <div>
-                <p data-aos="zoom-in-up" >I 'm</p>
+                <p data-aos="zoom-in-up" >I am</p>
                 <p data-aos="zoom-in-up">Afshan</p>
                 <p data-aos="zoom-in-up">Ahmar</p>
              </div>
